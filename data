@@ -1,0 +1,12 @@
+Data 
+
+I plan on gathering the park venue data from the foursquare app to offer a centralized view of all the park locations within a fixed radius and analyzing the data 
+to bring upon further insights for those interested in comparing the parks of the two cities.  
+
+Data used: 
+
+Geolocater (City Geograpical data)
+Venue Search ( ID , Category, Location, ect.)
+Folium (Mapping) 
+Pandas, Numpy  (Data Manipulation)
+
